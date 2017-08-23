@@ -1,4 +1,4 @@
 # Unity-2d-shooting-Game-using-Arduino-joystick
 The game for daedalus
 
-![alt text](C:\Users\netprog\Documents\Bandicam\example.png)
+![alt text](https://github.com/Profrog/Unity-2d-shooting-Game-using-Arduino-joystick/blob/master/example.jpg)
