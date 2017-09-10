@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sun Sep 10 15:16:51 KST 2017
+2.base=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\device_filter.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+6.file=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\serial_console.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+5.base=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Workspace\\newfolder2\\test1\\testFinal4_6\\game2\\usbSerialExamples\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:2:146-171
+		INJECTED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:2:99-145
+	android:versionCode
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:2:172-195
+		INJECTED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:2:196-236
+supports-screens
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:4:3-42:17
+	android:label
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:4:92-124
+	android:icon
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:4:58-91
+	android:banner
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:4:147-184
+	android:theme
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:4:125-146
+activity#com.Daedalus.game2.DeviceListActivity
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:6:5-23:16
+	android:label
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:8:9-41
+	android:theme
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:9:9-73
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:7:9-61
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:10:7-15:23
+action#android.intent.action.MAIN
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:11:17-58
+category#android.intent.category.DEFAULT
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:13:9-68
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:13:19-65
+category#android.intent.category.LAUNCHER
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:14:9-69
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:14:19-66
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:16:7-18:23
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:17:9-82
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:17:17-79
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:20:7-22:44
+	android:resource
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:22:11-41
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:21:11-73
+activity#com.Daedalus.game2.MainActivity
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:26:5-30:16
+	android:label
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:28:9-41
+	android:theme
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:29:9-73
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:27:9-55
+activity#com.Daedalus.game2.UnityPlayerActivity
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:34:5-41:16
+	android:screenOrientation
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:34:48-86
+	android:label
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:34:15-47
+	android:launchMode
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:34:87-118
+	android:configChanges
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:34:119-292
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:34:293-346
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:35:7-39:23
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:38:9-78
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:38:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:40:7-82
+	android:value
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:40:59-79
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:40:18-58
+uses-sdk
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:43:3-72
+MERGED from [com.hoho.android:usbSerialForAndroid:0.2.0-SNAPSHOT] D:\Workspace\newfolder2\test1\testFinal4_6\game2\build\intermediates\exploded-aar\com.hoho.android\usbSerialForAndroid\0.2.0-SNAPSHOT\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.felHR85:UsbSerial:4.5] D:\Workspace\newfolder2\test1\testFinal4_6\game2\build\intermediates\exploded-aar\com.github.felHR85\UsbSerial\4.5\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:43:40-69
+		INJECTED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:43:13-39
+uses-feature#0x00020000
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:44:3-52
+	android:glEsVersion
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:44:17-49
+uses-feature#android.hardware.vulkan
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:45:3-83
+	android:required
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:45:56-80
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:45:17-55
+uses-permission#android.permission.INTERNET
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:46:3-65
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:46:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:47:3-88
+	android:required
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:47:61-85
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:47:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:48:3-99
+	android:required
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:48:72-96
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:48:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:49:3-108
+	android:required
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:49:81-105
+	android:name
+		ADDED from D:\Workspace\newfolder2\test1\testFinal4_6\game2\src\main\AndroidManifest.xml:49:17-80

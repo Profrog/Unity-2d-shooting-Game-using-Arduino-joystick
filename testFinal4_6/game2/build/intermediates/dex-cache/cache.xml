@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder2\test1\testFinal4_6\game2\build\intermediates\exploded-aar\com.hoho.android\usbSerialForAndroid\0.2.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee036a56230aed80d342a9bfd9729344b2281e67">
+        <dex dex="D:\Workspace\newfolder2\test1\testFinal4_6\game2\build\intermediates\pre-dexed\debug\com.hoho.android-usbSerialForAndroid-0.2.0-SNAPSHOT_fe90042deee088ca3307dd5a0ce56c216eb890a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder2\test1\testFinal4_6\game2\usbSerialExamples\build\intermediates\exploded-aar\com.hoho.android\usbSerialForAndroid\0.2.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ee036a56230aed80d342a9bfd9729344b2281e67">
+        <dex dex="D:\Workspace\newfolder2\test1\testFinal4_6\game2\usbSerialExamples\build\intermediates\pre-dexed\debug\com.hoho.android-usbSerialForAndroid-0.2.0-SNAPSHOT_269e9b1dcf4eb7848f51703b74c183e849a039df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder2\test1\testFinal4_6\game2\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="632e44dcdc012164827d96f08e88b307d2bfa047">
+        <dex dex="D:\Workspace\newfolder2\test1\testFinal4_6\game2\build\intermediates\pre-dexed\debug\unity-classes_95cbca93b2b71ef0f2532a30e494a8101f01ee41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder2\test1\testFinal4_6\game2\build\intermediates\exploded-aar\com.github.felHR85\UsbSerial\4.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="D:\Workspace\newfolder2\test1\testFinal4_6\game2\build\intermediates\pre-dexed\debug\com.github.felHR85-UsbSerial-4.5_2e2c58fbb87b6fd5e45d1f2b64d45e69ffcb9362.jar" />
+    </item>
+
+</items>
